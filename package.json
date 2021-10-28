@@ -1,0 +1,14 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lodash.js",
+  "scripts": {
+    "test": "jest test --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.0"
+  }
+}
